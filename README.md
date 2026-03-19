@@ -1,4 +1,4 @@
-## Hi, I'm Srishti 👋
+## Hi, I'm Srishti!
 
 🎓 Graduate Student  
 💻 Working on Frontend Development  
