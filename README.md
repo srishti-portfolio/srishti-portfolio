@@ -8,8 +8,7 @@
 ---
 
 ### 🚀 Current Focus
-- Frontend development using HTML & CSS
 - Building small web projects
 - Improving responsive design skills
-- Learning SEO fundamentals
+- Learning SEO 
 - Exploring Data Analytics
