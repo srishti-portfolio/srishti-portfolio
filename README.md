@@ -1,21 +1,15 @@
 ## Hi, I'm Srishti 👋
 
 🎓 Graduate Student  
-💻 Learning Web Development and SEO  
+💻 Working on Frontend Development  
+📈 Practising SEO and Web Optimization  
+📊 Currently learning Data Analytics  
 
 ---
 
-### 🚀 Current Project
-- YouTube Clone (HTML & CSS)
-
----
-
-### 🌱 Currently Learning
-- Responsive Web Design
-- Improving CSS layouts
-- SEO fundamentals
-
----
-
-### 🎯 Career Goal
-To become a skilled Front-End Developer and build impactful, user-friendly websites.
+### 🚀 Current Focus
+- Frontend development using HTML & CSS
+- Building small web projects
+- Improving responsive design skills
+- Learning SEO fundamentals
+- Exploring Data Analytics
