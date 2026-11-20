@@ -9,7 +9,7 @@
 - ▸ Automating data workflows with ETL pipelines
 
 ### ◆ Tech Stack
-**Analysis** — SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)
-**Visualization** — Power BI (DAX, Power Query), Tableau, Advanced Excel
-**Data Engineering** — ETL, APIs, SQLite, GitHub Actions, VBA
-**Tools** — Git, GitHub, Jira, Google Analytics
+- **Analysis** — SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)
+- **Visualization** — Power BI (DAX, Power Query), Tableau, Advanced Excel
+- **Data Engineering** — ETL, APIs, SQLite, GitHub Actions, VBA
+- **Tools** — Git, GitHub, Jira, Google Analytics
