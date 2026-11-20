@@ -1,6 +1,6 @@
 ## Hi, I'm Srishti
 
-** Aspiring Data Analyst**
+**Aspiring Data Analyst**
 
 ### ◆ Current Focus
 - ▸ Building end-to-end data analytics projects
